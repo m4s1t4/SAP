@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'sap.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '127.0.0.1',
+        'HOST': '*******',
         'NAME': 'sap',
-        'PASSWORD': 'Qwe123_asd',
-        'USER': 'José',
-        'PORT': '3306',
+        'PASSWORD': '********',
+        'USER': '******',
+        'PORT': '*******',
         }
     }
 
